@@ -10,6 +10,7 @@ matrix:
     - php: 7.0
     - php: 7.1
     - php: 7.2
+    - php: hhvm
     - env: TESSERACT_VERSION=3.03.02-3
     - env: TESSERACT_VERSION=3.03.03-1
     - env: TESSERACT_VERSION=3.04.01-4
